@@ -1,0 +1,3 @@
+- 👋 Wesley Pereira
+- 👀 Sou aluno de pensamento computacional 
+- 📫 wesley.debus@escola.pr.gov.br
